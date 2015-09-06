@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dead Mad Geek</title>
+    <description>Blogging about stuffs</description>
+    <link>http://your-blog-url.example.com</link>
+    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>No, Anies.</title>
+        
+        
+          <description>&lt;p&gt;Anies Baswedan. I do remember the very first time I heard his name, as there are only few people in Indonesia that directly involved in real social activities, such as Indonesia Mengajar and Turun Tangan, Anies Baswedan was one of the politician and academician that gained my respect. Plus, he performed very good speech in several occassions.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/no-anies/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/no-anies/</guid>
+      </item>
+    
+      <item>
+        <title>Choosing The Right Blogging Platform</title>
+        
+        
+          <description>&lt;p&gt;After doing a several researches regarding the blogging platform, I found many headlines are confusing. Choosing the blogging platform isn&amp;#39;t necessarily to be the best one, as nobody does it better than anybody, but it&amp;#39;s a matter to suit your needs. Hence, choosing the right blogging platform is considered as a proper title.&lt;/p&gt;
+</description>
+        
+        <pubDate>Fri, 07 Aug 2015 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/picking-the-right-blogging-platform/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/picking-the-right-blogging-platform/</guid>
+      </item>
+    
+      <item>
+        <title>On Server Scaling</title>
+        
+        
+          <description>&lt;blockquote&gt;
+&lt;p&gt;Static is the new dynamic&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Sun, 22 Mar 2015 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/static-is-the-new-dynamic/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/static-is-the-new-dynamic/</guid>
+      </item>
+    
+      <item>
+        <title>On Marketing and Ethnography</title>
+        
+        
+          <description>&lt;blockquote&gt;
+&lt;p&gt;What We Consume Classifies Us.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Sat, 07 Mar 2015 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/what-we-consume-classifies-us/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/what-we-consume-classifies-us/</guid>
+      </item>
+    
+      <item>
+        <title>Revamping My Blog</title>
+        
+        
+          <description>&lt;h2&gt;What Is This Post About?&lt;/h2&gt;
+
+&lt;p&gt;I’ve been blogging since 2004. The length span until 2015, doesn’t mean that I’m a good writer. I just like to write. &lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 01 Mar 2015 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/revamping-my-blog/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/revamping-my-blog/</guid>
+      </item>
+    
+      <item>
+        <title>Adding Google Analytics for Jekyll</title>
+        
+        
+          <description>&lt;p&gt;I have to admit that Jekyll is a really great platform. No wonder since it has been developed by the founder of &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;, &lt;a href=&quot;http://tom.preston-werner.com/&quot;&gt;Tom Preston-Werner&lt;/a&gt;.&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 22 Jun 2014 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2014/adding-google-analytics-for-jekyll/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/adding-google-analytics-for-jekyll/</guid>
+      </item>
+    
+      <item>
+        <title>Goodbye (Again) Wordpress. Welcoming Jekyll and Github</title>
+        
+        
+          <description>&lt;p&gt;All of these years, I&amp;#39;ve been trying to find a platform that suits my blog. There are numerous good blogging platform, Wordpress is one of them. But, it&amp;#39;s too complicated and takes too many resource. Not forget to mention that it&amp;#39;s so slow.&amp;lt;!-- more --&amp;gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 21 Jun 2014 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2014/welcoming-jekyll-github/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/welcoming-jekyll-github/</guid>
+      </item>
+    
+      <item>
+        <title>Kenapa Saya Tidak Setuju Dolly Ditutup Oleh Risma</title>
+        
+        
+          <description>&lt;p&gt;Penutupan lokalisasi Dolly sudah menjadi topik hangat untuk beberapa minggu belakangan. Secara pribadi, saya ga setuju sama sekali untuk pentupan Dolly. Ini bukan pendekatan agama ya, jauh-jauhin dulu. Tuhan ga ciptain prostitusi, kita yang bikin.&lt;/p&gt;
+</description>
+        
+        <pubDate>Wed, 18 Jun 2014 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2014/kenapa-saya-tidak-setuju-dolly-ditutup-oleh-risma/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/kenapa-saya-tidak-setuju-dolly-ditutup-oleh-risma/</guid>
+      </item>
+    
+      <item>
+        <title>How I Wish Matt&#39;s Presentation Would Be</title>
+        
+        
+          <description>&lt;blockquote&gt;This post reflects my point of view on Wordpress as a product and its development. It&#39;s a subjective review of the presentation and does not represent MalesBanget.com ( or it might )&lt;/blockquote&gt;
+</description>
+        
+        <pubDate>Mon, 02 Jun 2014 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2014/wish-matts-presentation/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/wish-matts-presentation/</guid>
+      </item>
+    
+      <item>
+        <title>Ini 3 Alasan Kenapa Saya Tidak Suka AdPop Telkomsel</title>
+        
+        
+          <description>&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/12389053/Blog/pics/AdPop-telkomsel/IMG_00000650.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</description>
+        
+        <pubDate>Sun, 12 Jan 2014 00:00:00 +0700</pubDate>
+        <link>http://your-blog-url.example.com/2014/ini-3-alasan-kenapa-saya-tidak-suka-adpop-telkomsel/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2014/ini-3-alasan-kenapa-saya-tidak-suka-adpop-telkomsel/</guid>
+      </item>
+    
+  </channel>
+</rss>
