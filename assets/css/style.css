@@ -82,6 +82,12 @@ h2 {
 	color: #bbb;
 }
 
+.prompt_price{
+	font-size:24px;
+	color:#27ae60;
+	font-weight:bold;
+}
+
 #product-info{
 	border-top:3px solid #eee;
 	padding-top:40px;
